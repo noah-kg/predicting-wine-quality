@@ -12,3 +12,5 @@ In this project, I am to tackle the [wine data set](https://archive.ics.uci.edu/
 * Create pipeline structure to easily train/test multiple models
 * Train/Test multiple models both before and after balancing out the data with SMOTE
 * Use [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) to assist in hyperparameter tuning of the top performing models
+
+To view the notebook, click on the .ipynb file above, or view it [here](https://nbviewer.org/github/noah-kg/predicting-wine-quality/blob/main/Predicting%20Wine%20Quality.ipynb).
